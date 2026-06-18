@@ -82,6 +82,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:site_name", content: "V_KINETIC" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { title: "zoroediting" },
+      { property: "og:title", content: "zoroediting" },
+      { name: "twitter:title", content: "zoroediting" },
+      { name: "description", content: "Cinematic Canvas builds a modern, responsive portfolio website for video editors and motion graphics artists." },
+      { property: "og:description", content: "Cinematic Canvas builds a modern, responsive portfolio website for video editors and motion graphics artists." },
+      { name: "twitter:description", content: "Cinematic Canvas builds a modern, responsive portfolio website for video editors and motion graphics artists." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5339a3a6-b4eb-4c77-9e7f-bd02be703011/id-preview-2a3035ff--382817f1-0711-4545-ae96-660a34412829.lovable.app-1781772060167.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/5339a3a6-b4eb-4c77-9e7f-bd02be703011/id-preview-2a3035ff--382817f1-0711-4545-ae96-660a34412829.lovable.app-1781772060167.png" },
     ],
     links: [
       {
